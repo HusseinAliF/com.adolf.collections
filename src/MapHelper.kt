@@ -11,7 +11,12 @@ import java.lang.reflect.Modifier
  *
  **/
 
-
+/**
+ * These properties called options in the matching function (remove/return)
+ * @property CONTAINS check if contain
+ * @property STARTS_WITH check if start with
+ * @property ENDS_WITH check if ends with
+ **/
 const val CONTAINS = 0
 const val STARTS_WITH = 1
 const val ENDS_WITH = 3
