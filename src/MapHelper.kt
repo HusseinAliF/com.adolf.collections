@@ -1,3 +1,4 @@
+@file:JvmName("MapHelper")
 import java.lang.reflect.Modifier
 
 /**

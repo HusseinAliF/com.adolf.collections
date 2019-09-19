@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/com.adolf.collections.iml" filepath="$PROJECT_DIR$/com.adolf.collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adolf.collections.gradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adolf.collections.gradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adolf.collections.gradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adolf.collections.gradle.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle.test.iml" />
