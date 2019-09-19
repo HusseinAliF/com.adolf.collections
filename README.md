@@ -1,5 +1,5 @@
 # com.adolf.collections
 Hello m8
-If you are using Java you have to write the file name like MapHelperKt.methodName to choose method 
+If you are using Java this methods like static methods in Java you can call it FileName.methodName(...)
 
 good luck :)
